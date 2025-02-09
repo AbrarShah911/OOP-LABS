@@ -20,9 +20,9 @@ int main(){
 
 	orginisation org;
 
-	org.orginisation_name = "IBA";
+	org.orginisation_name = "University";
 	org.orginisation_number = 0213;
-	org.orginisation_employee.employee_name = "Prof. Atif Tahir";
+	org.orginisation_employee.employee_name = "Prof. Mcdonald";
 	org.orginisation_employee.employee_id = 420;
 	org.orginisation_employee.employee_salary = 30000;
 
